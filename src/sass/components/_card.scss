@@ -1,4 +1,23 @@
 .card {
+  padding: 2rem auto;
+  margin: 2rem;
+  box-shadow: 0 1rem 4rem rgba(0,0,0,.5);
+  background-image: radial-gradient($color-warriors-secondary,$color-warriors-primary);
+  height: 20rem;
+  width: 20rem;
+  position: relative;
+  border-radius: 3rem;
+  display: inline-block;
 
-  
+  &:active {
+    transform: translateY(-2px);
+    box-shadow: 0 .7rem 2rem rgba(0,0,0,.6); 
+  }
+
+  &__img {
+    height: 15rem;
+    width: 15rem;
+    @include center-element;
+    
+  }
 }
