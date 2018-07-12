@@ -1,0 +1,74 @@
+[
+{
+  "name": "Stephen Curry",
+  "img": "/assets/images/nba/warriors/stephen-curry.png",
+  "id": 1,
+  "clicked": false
+},
+{
+  "name": "Kevin Durant",
+  "img": "/assets/images/nba/warriors/kevin-durant.png",
+  "id": 2,
+  "clicked": false
+},
+{
+  "name": "Klay Thompson",
+  "img": "/assets/images/nba/warriors/klay-thompson.png",
+  "id": 3,
+  "clicked": false
+},
+{
+  "name": "Draymond Green",
+  "img": "/assets/images/nba/warriors/draymond-green.png",
+  "id": 4,
+  "clicked": false
+},
+{
+  "name": "Demarcus Cousins",
+  "img": "/assets/images/nba/warriors/demarcus-cousins.png",
+  "id": 5,
+  "clicked": false
+},
+{
+  "name": "Andre Iguodala",
+  "img": "/assets/images/nba/warriors/andre-iguodala.png",
+  "id": 6,
+  "clicked": false
+},
+{
+  "name": "Shaun Livingston",
+  "img": "/assets/images/nba/warriors/shaun-livingston.png",
+  "id": 7,
+  "clicked": false
+},
+{
+  "name": "Jordan Bell",
+  "img": "/assets/images/nba/warriors/jordan-bell.png",
+  "id": 8,
+  "clicked": false
+},
+{
+  "name": "Kevon Looney",
+  "img": "/assets/images/nba/warriors/kevon-looney.png",
+  "id": 9,
+  "clicked": false
+},
+{
+  "name": "Quinn Cook",
+  "img": "/assets/images/nba/warriors/quinn-cook.png",
+  "id": 10,
+  "clicked": false
+},
+{
+  "name": "Patrick McCaw",
+  "img": "/assets/images/nba/warriors/patrick-mccaw.png",
+  "id": 11,
+  "clicked": false
+},
+{
+  "name": "Jacob Evans",
+  "img": "/assets/images/nba/warriors/jacob-evans.jpg",
+  "id": 12,
+  "clicked": false
+}
+]
