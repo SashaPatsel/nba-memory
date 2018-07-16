@@ -9,9 +9,14 @@
   border-radius: 3rem;
   display: inline-block;
 
+  &:hover {
+    animation: bounce 1s infinite ease-in-out;
+  }
+
   &:active {
     transform: translateY(-2px);
     box-shadow: 0 .7rem 2rem rgba(0,0,0,.6); 
+    animation: none;
   }
 
   &__img {
