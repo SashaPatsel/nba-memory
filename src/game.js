@@ -28,7 +28,7 @@ clickCard = (id) => {
 
        this.shuffle(this.state.cards) 
     } else {
-      
+
         this.setState({
           score: 0,
           lossMessage: "Getcho trash ass outta hurr",
@@ -89,15 +89,15 @@ shuffle = (arr) => {
         <p>Current Score: {this.state.score}</p>
         <p>{this.state.lossMessage}</p>
       </Nav>
-        <div className="row game__container">
-          <div className="card__container">
-        {this.state.cards.map(x => (
-          <Card img={x.img} alt={x.name} key={x.id}
-         id={x.id}  memory={this.clickCard}/>
-        ))}
-        {/* <Card img={this.state.cards[0].img} alt={this.state.cards[0].name}/>  */}
+
+        <div className="game__container">
+          {this.state.cards.map(x => (
+            <Card img={x.img} alt={x.name} key={x.id}
+          id={x.id}  memory={this.clickCard}/>
+          ))}
+
         </div>
-        </div>
+
       </div>
     )
   }
