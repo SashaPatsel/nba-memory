@@ -1,13 +1,30 @@
 import React, {Component} from "react";
-import warriors from "./data/nba/warriors.json";
+
+//COMPONENTS
 import Card from "./components/Card";
 import Nav from "./components/Nav";
+
+//DATA
+import warriors from "./data/nba/warriors.json";
+import celtics from "./data/nba/celtics.json";
+
+//TEAM COLORS
+const colorCeltics = {
+  backgroundImage: 'radial-gradient(rgb(255,255,255), rgb(16,130,74))'
+}
+
+const colorWarriors = {
+  backgroundImage: 'radial-gradient(rgb(248,175,50), rgb(14,74,169))'
+}
+
 
 class Game extends Component {
   state = {
     cards: [...warriors],
     score: 0,
-    lossMessage: ""
+    lossMessage: "",
+    arena: {backgroundImage: 'url("/assets/images/nba/arenas/warriors.png")'},
+    colors: colorWarriors
   }
 
 componentDidMount() {
@@ -32,32 +49,11 @@ clickCard = (id) => {
         this.setState({
           score: 0,
           lossMessage: "Getcho trash ass outta hurr",
-          cards: [...warriors]
+          cards: [...celtics],
+          arena: {backgroundImage: 'url("/assets/images/nba/arenas/celtics.png")'},
+          colors: colorCeltics
         })
     }
-
-    // if(id === card.id && card.clicked === true) {
-    //   console.log(id)
-    //   console.log(card.id)
-    //   this.setState({
-    //     score: 0,
-    //     lossMessage: "Getcho trash ass outta hurr",
-    //     cards: [...warriors]
-    //   })
-
-    // } else {
-
-    //   card.clicked = true;
-
-    //   this.setState({
-    //     score: this.state.score + 1
-    //   })
-
-    //    this.shuffle(this.state.cards) 
-    // }
-
-  // })
-  // console.log(this.state.cards)
 }
 
 //Knuth Shuffle
@@ -84,7 +80,7 @@ shuffle = (arr) => {
 
   render () {
     return (
-      <div className="game">
+      <div className="game" style={this.state.arena}>
       <Nav>
         <p>Current Score: {this.state.score}</p>
         <p>{this.state.lossMessage}</p>
@@ -93,7 +89,7 @@ shuffle = (arr) => {
         <div className="game__container">
           {this.state.cards.map(x => (
             <Card img={x.img} alt={x.name} key={x.id}
-          id={x.id}  memory={this.clickCard}/>
+          id={x.id}  memory={this.clickCard} team={this.state.colors}/>
           ))}
 
         </div>

@@ -2,7 +2,7 @@
   padding: 2rem auto;
   margin: 2rem;
   box-shadow: 0 1rem 4rem rgba(0,0,0,.5);
-  background-image: radial-gradient($color-warriors-secondary,$color-warriors-primary);
+  // background-image: radial-gradient($color-warriors-secondary,$color-warriors-primary);
   height: 20rem;
   width: 20rem;
   position: relative;
@@ -25,4 +25,5 @@
     @include center-element;
     
   }
+  
 }
