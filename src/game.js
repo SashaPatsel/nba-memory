@@ -32,7 +32,7 @@ componentDidMount() {
 }
 
 clickCard = (id) => {
-  // this.state.cards.map(card => {
+ 
     const chosen = this.state.cards.filter(card => card.id === id)[0]
     
     if (chosen.clicked === false) {
