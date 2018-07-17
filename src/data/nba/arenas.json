@@ -1,0 +1,121 @@
+[
+{
+  "team": "76ers",
+  "img": "https://cdn.vox-cdn.com/thumbor/tnBsfoT-SHXaBNaJc5NaNf0zRZo=/0x0:750x399/1200x0/filters:focal(0x0:750x399)/cdn.vox-cdn.com/uploads/chorus_asset/file/8454803/482091dd98dfbf84a3134b82b093778559f9ea0d06b426bd99ded366c9ef3c51.png"
+},
+{
+  "team": "bucks",
+  "img": "https://www.nba.com/bucks/sites/bucks/files/150623-new-court-1.jpg"
+},
+{
+  "team": "bulls",
+  "img": "http://www.trbimg.com/img-5670560c/turbine/ct-united-center-court-design-20151216"
+},
+{
+  "team": "cavaliers",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Cleveland-Cavaliers-Quicken-Loans-Arena-floor.jpg"
+},
+{
+  "team": "celtics",
+  "img": "https://vignette.wikia.nocookie.net/nba/images/1/13/Boston_Celtics_court_logo.png/revision/latest?cb=20140727011247"
+},
+{
+  "team": "clippers",
+  "img": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fimages%2FLos-Angeles-Clippers-Staples-Center-floor.jpg&w=1100&q=85"
+},
+{
+  "team": "girzzlies",
+  "img": "https://vignette.wikia.nocookie.net/nba/images/e/eb/Memphis_Grizzlies_court_logo.gif/revision/latest?cb=20130722021001"
+},
+{
+  "team": "hawks",
+  "img": "https://vignette.wikia.nocookie.net/nba/images/1/11/Atlanta_Hawks_court_logo.png/revision/latest?cb=20170831115059"
+},
+{
+  "team": "heat",
+  "img": "https://vignette.wikia.nocookie.net/nba/images/5/52/Miami_Heat_stadium_logo.gif/revision/latest?cb=20151228223411"
+},
+{
+  "team": "hornets",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Charlotte-Hornets-Time-Warner-Cable-floor.jpg"
+},{
+  "team": "jazz",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Utah-Jazz-Vivint-Smart-Home-Arena-floor.jpg"
+},
+{
+  "team": "kings",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Sacramento-Kings-Sleep-Train-Arena-floor.jpg"
+},
+{
+  "team": "knicks",
+  "img": "https://vignette.wikia.nocookie.net/nba/images/a/a8/New_York_Knicks_court_logo.gif/revision/latest?cb=20130703041457"
+},
+{
+  "team": "lakers",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Los-Angeles-Lakers-Staples-Center-floor.jpg"
+},
+{
+  "team": "magic",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAXEuzABMZ61bCHgOD0HjZ4cxkOoWLvLanF3ix_w1CFB3p3he"
+},
+{
+  "team": "mavericks",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Dallas-Mavericks-American-Airlines-Center-floor.jpg"
+},
+{
+  "team": "nets",
+  "img": "http://www.trbimg.com/img-56797a08/turbine/ct-ranking-new-nba-court-designs-photos"
+},
+{
+  "team": "nuggets",
+  "img": "https://www.nba.com/nuggets/sites/nuggets/files/styles/story_main_photo/public/dn-court.jpg?itok=Le0FD9UL"
+},
+{
+  "team": "pacers",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Indiana-Pacers-Bankers-Life-Fieldhouse-floor.jpg"
+},
+{
+  "team": "pelicans",
+  "img": "http://i67.tinypic.com/vc1sz.jpg"
+},
+{
+  "team": "pistons",
+  "img": "https://cbsdetroit.files.wordpress.com/2017/09/pistonsfloor.jpg?w=1500"
+},
+{
+  "team": "raptors",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Toronto-Raptors-Air-Canada-Centre-floor.jpg"
+},
+{
+  "team": "rockets",
+  "img": "http://content.sportslogos.net/logos/6/230/full/188_houston-rockets-stadium-2012.gif"
+},
+{
+  "team": "spurs",
+  "img": "https://vignette.wikia.nocookie.net/nba/images/f/f7/San_Antonio_Spurs_court_logo.gif/revision/latest?cb=20130722230843"
+},
+{
+  "team": "suns",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Phoenix-Suns-Talking-Stick-Resort-Arena-floor.jpg"
+},
+{
+  "team": "thunder",
+  "img": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fimages%2FOklahoma-City-Thunder-Chesapeake-Energy-Arena-floor.jpg&w=1100&q=85"
+},
+{
+  "team": "timberwolves",
+  "img": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-s3.si.com%2Fs3fs-public%2Fimages%2FMinnesota-Timberwolves-Target-Center-floor.jpg&w=1100&q=85"
+},
+{
+  "team": "trailblazers",
+  "img": "https://usatftw.files.wordpress.com/2014/03/508_portland-trail_blazers-stadium-2012.gif?w=1000"
+},
+{
+  "team": "warriors",
+  "img": "https://vignette.wikia.nocookie.net/nba/images/5/5f/Golden_State_Warriors_court_logo.png/revision/20140911201149"
+},
+{
+  "team": "wizards",
+  "img": "https://cdn-s3.si.com/s3fs-public/images/Washington-Wizards-Verizon-Center-floor.jpg"
+}
+]
