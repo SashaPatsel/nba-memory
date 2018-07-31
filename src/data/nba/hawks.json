@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Bob Petit",
+    "img": "/assets/images/nba/celtics/kyrie-irving.png",
+    "id": 1,
+    "clicked": false
+  },
+  {
+    "name": "Dominique Wilkins",
+    "img": "/assets/images/nba/celtics/al-horford.png",
+    "id": 2,
+    "clicked": false
+  },
+  {
+    "name": "Dikembe Mutombo",
+    "img": "/assets/images/nba/celtics/gordon-hayward.png",
+    "id": 3,
+    "clicked": false
+  },
+  {
+    "name": "Lou Hudson",
+    "img": "/assets/images/nba/celtics/jayson-tatum.png",
+    "id": 4,
+    "clicked": false
+  },
+  {
+    "name": "Joe Johnson",
+    "img": "/assets/images/nba/celtics/jaylen-brown.png",
+    "id": 5,
+    "clicked": false
+  },
+  {
+    "name": "Pete Maravich",
+    "img": "/assets/images/nba/celtics/terry-rozier.png",
+    "id": 6,
+    "clicked": false
+  },
+  {
+    "name": "Steve Smith",
+    "img": "/assets/images/nba/celtics/marcus-smart.png",
+    "id": 7,
+    "clicked": false
+  },
+  {
+    "name": "Paul Millsap",
+    "img": "/assets/images/nba/celtics/marcus-morris.png",
+    "id": 8,
+    "clicked": false
+  },
+  {
+    "name": "Al Horford",
+    "img": "/assets/images/nba/celtics/aron-baynes.png",
+    "id": 9,
+    "clicked": false
+  },
+  {
+    "name": "kevin Willis",
+    "img": "/assets/images/nba/celtics/daniel-theis.png",
+    "id": 10,
+    "clicked": false
+  },
+  {
+    "name": "Josh Smith",
+    "img": "/assets/images/nba/celtics/semi-ojeleye.png",
+    "id": 11,
+    "clicked": false
+  },
+  {
+    "name": "Jeff Teague",
+    "img": "/assets/images/nba/celtics/shane-larkin.png",
+    "id": 12,
+    "clicked": false
+  }
+  ]
