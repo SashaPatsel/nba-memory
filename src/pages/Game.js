@@ -1,12 +1,12 @@
 import React, {Component} from "react";
 
 //COMPONENTS
-import Card from "./components/Card";
-import Nav from "./components/Nav";
+import Card from "../components/Card";
+import Nav from "../components/Nav";
 
 //DATA
-import warriors from "./data/nba/warriors.json";
-import celtics from "./data/nba/celtics.json";
+import warriors from "../data/nba/warriors.json";
+import celtics from "../data/nba/celtics.json";
 
 //TEAM COLORS
 const colorCeltics = {
@@ -48,7 +48,7 @@ clickCard = (id) => {
 
         this.setState({
           score: 0,
-          lossMessage: "Getcho trash ass outta hurr",
+          lossMessage: "Gotta stay in the gym longer",
           cards: [...celtics],
           arena: {backgroundImage: 'url("/assets/images/nba/arenas/celtics.png")'},
           colors: colorCeltics
