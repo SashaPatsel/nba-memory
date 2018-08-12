@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import Game from "./pages/Game"
+import Landing from "./pages/Landing"
 
 
 class App extends Component {
@@ -9,7 +10,8 @@ class App extends Component {
     return (
       <Router>
         <Switch>
-          <Game/>
+          <Route path="/" component={Landing} />
+          <Route path="/game" component={Game} />
         </Switch>
       </Router>  
     );
