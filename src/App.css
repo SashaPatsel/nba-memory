@@ -140,3 +140,6 @@ body {
       -webkit-stroke-color: #FFFFFF;
       -webkit-fill-color: #FFFFFF;
       text-shadow: 1px 0px 20px yellow; }
+  .landing__rules {
+    text-align: center;
+    font-size: 2rem; }

@@ -15,8 +15,8 @@ class Landing extends Component {
 
         <Router>
           <Switch>
-            <Route path="/" component={Nav}/>
-            <Route path="/" component={Rules}/>
+            <Route exact path="/" component={Nav}/>
+            <Route exact path="/rules" component={Rules}/>
             {/* <Route path="choices" component={Game}/> */}
           </Switch>  
         </Router>  
