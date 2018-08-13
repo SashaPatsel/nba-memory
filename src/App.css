@@ -1,3 +1,17 @@
+/*
+0 - 600px: Phone
+
+600px - 900px: Tablet-Portrait
+
+900px - 1200 px: Tablet-Landscape
+
+[1200px - 1800px]: Normal styling
+
+1800px + : Large desktop
+
+Good working order: Base & Typography -> General Layout & Grid -> Page Layout -> Components
+
+*/
 @keyframes bounce {
   0% {
     transform: translateY(0); }
@@ -68,32 +82,6 @@ body {
     width: 80vw;
     margin-left: 6.5%; }
 
-.container {
-  max-width: 114rem;
-  margin: 0 auto; }
-  .container:not(:last-child) {
-    margin-bottom: 8rem; }
-  .container::after {
-    content: "";
-    display: table;
-    clear: both; }
-  .container [class^="col-"] {
-    float: left; }
-    .container [class^="col-"]:not(:last-child) {
-      margin-right: 6rem; }
-  .container .col-1-of-2 {
-    width: calc((100% - 6rem) / 2); }
-  .container .col-1-of-3 {
-    width: calc((100% - 2 * 6rem) / 3); }
-  .container .col-2-of-3 {
-    width: calc( 2 * ((100% - 2 * 6rem) / 3) + 6rem); }
-  .container .col-1-of-4 {
-    width: calc((100% - 3 * 6rem) / 4); }
-  .container .col-2-of-4 {
-    width: calc(2 * ((100% - 3 * 6rem) / 4) + 6rem); }
-  .container .col-3-of-4 {
-    width: calc(3 * ((100% - 3 * 6rem) / 4) + 2 * 6rem); }
-
 .nav {
   position: fixed;
   height: 15rem;
@@ -108,3 +96,34 @@ body {
   font-size: 1rem;
   text-align: center;
   font-family: sportscenter; }
+
+.landing {
+  background-image: url("http://dkshardwoodfloors.com/wp-content/uploads/2017/03/bigstock-texture-wood-background-patter-114750797-darker.jpg");
+  height: 100vh;
+  background-size: cover;
+  position: relative; }
+  .landing__heading-primary {
+    text-transform: uppercase;
+    font-size: 4rem;
+    text-align: center;
+    font-family: sportscenter;
+    position: relative;
+    bottom: -8rem;
+    letter-spacing: 1.5rem; }
+  .landing__nav {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%; }
+  .landing__img {
+    height: 20rem;
+    display: block;
+    margin: 0 auto;
+    transition: .2s; }
+    .landing__img:hover {
+      transform: scale(1.2);
+      cursor: pointer; }
+    .landing__img-caption {
+      text-align: center;
+      font-size: 5rem; }

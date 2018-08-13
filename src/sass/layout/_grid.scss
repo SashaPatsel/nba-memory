@@ -1,10 +1,19 @@
-.container {
+.row {
   max-width: $grid-width;
   margin: 0 auto;
 
   //all except last child
     &:not(:last-child) {
       margin-bottom: $gutter-vertical;
+
+      @include responsive(t-port) {
+        margin-bottom: $gutter-vertical-sm;
+      }
+    }
+
+    @include responsive(t-port) {
+      max-width: 50rem;
+      padding: 0 3rem;
     }
 
     @include clearfix;
@@ -14,6 +23,16 @@
 
       &:not(:last-child) {
         margin-right: $gutter-horizontal;
+
+        @include responsive(t-port) {
+          margin-right: 0;
+          margin-bottom: $gutter-vertical-sm;
+        }
+      }
+
+      @include responsive(t-port) {
+        //Use important because we want this to happen no matter what 
+        width: 100% !important;
       }
     }
 
