@@ -141,5 +141,8 @@ body {
       -webkit-fill-color: #FFFFFF;
       text-shadow: 1px 0px 20px yellow; }
   .landing__rules {
-    text-align: center;
-    font-size: 2rem; }
+    margin-top: 10rem; }
+    .landing__rules-p {
+      text-align: center;
+      font-size: 3rem;
+      color: black; }
