@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import CardRule from "../../components/CardRule"
 
 class Rules extends Component {
   state = {
@@ -20,6 +21,8 @@ class Rules extends Component {
 
           <p className="landing__rules-p">If you have the chops to beat one team, clicking on each of their 12 best players only once, only then will you be ready to face the next team.</p>
         </div>
+
+        <CardRule/>
       </div>
     )
   }
