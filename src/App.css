@@ -38,6 +38,12 @@ body {
   /* makes it so that padding and width don't add to total size of element. i.e. height and width will now extend to define other parts of the box model */
   box-sizing: border-box; }
 
+a,
+a:active,
+a:hover,
+a:visited {
+  text-decoration: none; }
+
 body {
   font-family: 'Markazi Text', serif; }
 
@@ -109,7 +115,8 @@ body {
     font-family: sportscenter;
     position: relative;
     bottom: -8rem;
-    letter-spacing: 1.5rem; }
+    letter-spacing: 1.5rem;
+    color: black; }
   .landing__nav {
     position: absolute;
     top: 50%;
@@ -126,4 +133,10 @@ body {
       cursor: pointer; }
     .landing__img-caption {
       text-align: center;
-      font-size: 5rem; }
+      font-size: 5rem;
+      color: black; }
+    .landing__img-caption:hover {
+      -webkit-stroke-width: 5.3px;
+      -webkit-stroke-color: #FFFFFF;
+      -webkit-fill-color: #FFFFFF;
+      text-shadow: 1px 0px 20px yellow; }
