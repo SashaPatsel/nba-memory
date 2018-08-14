@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Shaquille O'Neal",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png",
+    "id": 1,
+    "clicked": false
+  },
+  {
+    "name": "Dwight Howard",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png",
+    "id": 2,
+    "clicked": false
+  },
+  {
+    "name": "Penny Hardaway",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200755.png",
+    "id": 3,
+    "clicked": false
+  },
+  {
+    "name": "Tracy McGrady",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png",
+    "id": 4,
+    "clicked": false
+  },
+  {
+    "name": "Grant Hill",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png",
+    "id": 5,
+    "clicked": false
+  },
+  {
+    "name": "Dennis Scott",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101161.png",
+    "id": 6,
+    "clicked": false
+  },
+  {
+    "name": "Horace Grant",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png",
+    "id": 7,
+    "clicked": false
+  },
+  {
+    "name": "Jameer Nelson",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201163.png",
+    "id": 8,
+    "clicked": false
+  },
+  {
+    "name": "Hedo Turkoglu",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png",
+    "id": 9,
+    "clicked": false
+  },
+  {
+    "name": "Nikola Vucevic",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201573.png",
+    "id": 10,
+    "clicked": false
+  },
+  {
+    "name": "Scott Skiles",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627789.png",
+    "id": 11,
+    "clicked": false
+  },
+  {
+    "name": "Nick Anderson",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png",
+    "id": 12,
+    "clicked": false
+  }
+  ]

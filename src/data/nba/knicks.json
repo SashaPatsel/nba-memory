@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Patrick Ewing",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png",
+    "id": 1,
+    "clicked": false
+  },
+  {
+    "name": "Carmelo Anthony",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png",
+    "id": 2,
+    "clicked": false
+  },
+  {
+    "name": "Bernard King",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200755.png",
+    "id": 3,
+    "clicked": false
+  },
+  {
+    "name": "Charles Oakley",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png",
+    "id": 4,
+    "clicked": false
+  },
+  {
+    "name": "Kristaps Porzingis",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png",
+    "id": 5,
+    "clicked": false
+  },
+  {
+    "name": "Mark Jackson",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101161.png",
+    "id": 6,
+    "clicked": false
+  },
+  {
+    "name": "Latrell Sprewell",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png",
+    "id": 7,
+    "clicked": false
+  },
+  {
+    "name": "Earl Monroe",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201163.png",
+    "id": 8,
+    "clicked": false
+  },
+  {
+    "name": "Walt Frazier",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png",
+    "id": 9,
+    "clicked": false
+  },
+  {
+    "name": "Willis Reed",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201573.png",
+    "id": 10,
+    "clicked": false
+  },
+  {
+    "name": "Dave Debusschere",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627789.png",
+    "id": 11,
+    "clicked": false
+  },
+  {
+    "name": "John Starks",
+    "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png",
+    "id": 12,
+    "clicked": false
+  }
+  ]

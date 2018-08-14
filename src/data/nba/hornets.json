@@ -1,72 +1,72 @@
 [
   {
-    "name": "Ben Simmons",
+    "name": "Kemba Walker",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627732.png",
     "id": 1,
     "clicked": false
   },
   {
-    "name": "Joel Embiid",
+    "name": "Baron Davis",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203954.png",
     "id": 2,
     "clicked": false
   },
   {
-    "name": "Andre Iguodala",
+    "name": "Alonzo Mourning",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/200755.png",
     "id": 3,
     "clicked": false
   },
   {
-    "name": "Julius Erving",
+    "name": "Dell Curry",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203496.png",
     "id": 4,
     "clicked": false
   },
   {
-    "name": "Allen Iverson",
+    "name": "Gerald Wallace",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1628365.png",
     "id": 5,
     "clicked": false
   },
   {
-    "name": "Moses Malone",
+    "name": "Al Jefferson",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/101161.png",
     "id": 6,
     "clicked": false
   },
   {
-    "name": "Charles Barkley",
+    "name": "Stephen Jackson",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/204456.png",
     "id": 7,
     "clicked": false
   },
   {
-    "name": "Maurice Cheeks",
+    "name": "Muggsy Bogues",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201163.png",
     "id": 8,
     "clicked": false
   },
   {
-    "name": "Wilt Chamberlain",
+    "name": "Glen Rice",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1626158.png",
     "id": 9,
     "clicked": false
   },
   {
-    "name": "Hal Greer",
+    "name": "Larry Johnson",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/201573.png",
     "id": 10,
     "clicked": false
   },
   {
-    "name": "Billy Cunningham",
+    "name": "Emeka Okafor",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/1627789.png",
     "id": 11,
     "clicked": false
   },
   {
-    "name": "Hersey Hawkins",
+    "name": "Jamal Mashburn",
     "img": "https://ak-static.cms.nba.com/wp-content/uploads/headshots/nba/latest/260x190/203967.png",
     "id": 12,
     "clicked": false
