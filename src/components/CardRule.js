@@ -1,10 +1,12 @@
 import React, {Component} from "react";
 
 const CardRule = props => {
-  return(
+  return (
     <div className="rule-card" >
-    
-  </div>  
+      <h3 className="rule-card__num">{props.num}.</h3>
+
+      <p className="rule-card__rule">{props.rule}</p>
+    </div>  
   )
 }
 

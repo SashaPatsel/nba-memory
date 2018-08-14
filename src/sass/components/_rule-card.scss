@@ -1,3 +1,19 @@
 .rule-card {
-  
+  height: 30rem;
+  width: 25rem;
+  background-color: rgba(0,0,0,.85);
+  color: white;
+  position: relative;
+  z-index: 1000;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 3px;
+
+  &__num {
+    font-size: 3.5rem;
+  }
+
+  &__rule {
+    font-size: 2.5rem;
+  }
 }

@@ -51,6 +51,36 @@ body {
   font-family: sportscenter;
   src: url("/assets/Sportscenter.ttf"); }
 
+.u-center-text {
+  text-align: center !important; }
+
+.u-mgn-btm-small {
+  margin-bottom: 1.5rem !important; }
+
+.u-mgn-btm-medium {
+  margin-bottom: 4rem !important; }
+  @media (max-width: 56.25em) {
+    .u-mgn-btm-medium {
+      margin-bottom: 3rem !important; } }
+
+.u-mgn-btm-big {
+  margin-bottom: 8rem !important; }
+  @media (max-width: 56.25em) {
+    .u-mgn-btm-big {
+      margin-bottom: 5rem !important; } }
+
+.u-mgn-top-small {
+  margin-bottom: 2rem !important; }
+
+.u-mgn-top-medium {
+  margin-bottom: 4rem !important; }
+
+.u-mgn-top-big {
+  margin-bottom: 8rem !important; }
+
+.u-mgn-top-xl {
+  margin-bottom: 10rem !important; }
+
 .card {
   padding: 2rem auto;
   margin: 2rem;
@@ -73,6 +103,21 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%); }
+
+.rule-card {
+  height: 30rem;
+  width: 25rem;
+  background-color: rgba(0, 0, 0, 0.85);
+  color: white;
+  position: relative;
+  z-index: 1000;
+  margin: 0 auto;
+  padding: 2rem;
+  border-radius: 3px; }
+  .rule-card__num {
+    font-size: 3.5rem; }
+  .rule-card__rule {
+    font-size: 2.5rem; }
 
 .game {
   height: 100vh;
